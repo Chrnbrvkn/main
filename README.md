@@ -1,2 +1,2 @@
 # main
-[CV](https://Chrnbrvkn.github.io/rsschool-cv/cv)
+[CV](https://github.com/Chrnbrvkn/main/blob/gh-pages/cv.md)
